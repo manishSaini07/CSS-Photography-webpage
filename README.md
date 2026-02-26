@@ -51,7 +51,8 @@ photography-project/
 
 ## 👨‍💻 Author
 
-Manish Saini
+Manish Saini<br>
+
 GitHub: https://github.com/manishSaini07
 
 ---
